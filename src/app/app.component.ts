@@ -6,6 +6,6 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'grokonez.com';
-  description = 'Angular 8 Firebase Demo';
+  title = 'AksantiMed';
+  description = 'Un code qui peut sauver une vie.';
 }
